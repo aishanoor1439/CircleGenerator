@@ -1,0 +1,7 @@
+C:\Users\ABC\source\repos\CircleGenerator\CircleGenerator\obj\Debug\CircleGenerator.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\CircleGenerator\CircleGenerator\obj\Debug\CircleGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\CircleGenerator\CircleGenerator\bin\Debug\CircleGenerator.exe.config
+C:\Users\ABC\source\repos\CircleGenerator\CircleGenerator\bin\Debug\CircleGenerator.exe
+C:\Users\ABC\source\repos\CircleGenerator\CircleGenerator\bin\Debug\CircleGenerator.pdb
+C:\Users\ABC\source\repos\CircleGenerator\CircleGenerator\obj\Debug\CircleGenerator.exe
+C:\Users\ABC\source\repos\CircleGenerator\CircleGenerator\obj\Debug\CircleGenerator.pdb
